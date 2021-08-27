@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RijuDasgupta9116&count_private=true&show_icons=true&theme=merko" />
 </a>
 
+<br>
+  
 <a herf="https://github.com/anuraghazra/github-readme-stats">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijuDasgupta9116&layout=compact&langs_count=10&theme=merko" />
 </a>
